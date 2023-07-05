@@ -1,7 +1,7 @@
 ## <p style="color: #add8e6;"><strong>Júlian Domeneghini</strong></p>
 <br>
 
-### Olá! 👋 Sejam bem-vindos!!
+### 👋 Sejam bem-vindos!!
 
 <div align="justify">
 Meu nome é Júlian. Tenho 34 anos, estou em transição de carreira cursando Ciência de Dados da Uninter(Centro Universitário Internacional).<br>
