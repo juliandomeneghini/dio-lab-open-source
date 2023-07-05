@@ -1,6 +1,5 @@
 ## <p style="color: #add8e6;"><strong>Júlian Domeneghini</strong></p>
 <br>
-
 ### 👋 Sejam bem-vindos!!
 
 <div align="justify">
